@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  presenter_name: MyString
+  time: 2014-09-22 21:02:57
+  venue: MyString
+
+two:
+  title: MyString
+  presenter_name: MyString
+  time: 2014-09-22 21:02:57
+  venue: MyString
